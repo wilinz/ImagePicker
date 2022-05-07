@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">样例</string>
+    <string name="preview">预览</string>
+    <string name="edit">编辑</string>
+    <string name="confirm">确认</string>
+    <string name="all">全部</string>
+    <string name="camera">相机</string>
+    <string name="screenshots">截图</string>
+    <string name="download">下载</string>
+    <string name="back">后退</string>
+    <string name="more_album">更多相册</string>
+    <string name="max_selectable_desc">最多可以选择 %d 张图片</string>
+    <string name="permission_denied">读取图像权限被拒绝</string>
+</resources>

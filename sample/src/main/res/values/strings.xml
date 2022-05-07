@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">sample</string>
+    <string name="preview">Preview</string>
+    <string name="edit">Edit</string>
+    <string name="confirm">Confirm</string>
+    <string name="all">All</string>
+    <string name="camera">Camera</string>
+    <string name="screenshots">Screenshots</string>
+    <string name="download">Download</string>
+    <string name="back">Back</string>
+    <string name="more_album">More album</string>
+    <string name="max_selectable_desc">At most %d images can be selected</string>
+    <string name="permission_denied">Permission denied to read image</string>
+</resources>
